@@ -1,0 +1,22 @@
+.login-page {
+    min-height: 100vh;
+    padding-top: 100px;
+    justify-content: center;
+    text-align: center;
+}
+
+.login-page form{
+    width: 400px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.form-footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.form-footer button {
+    width: 100%;
+}
